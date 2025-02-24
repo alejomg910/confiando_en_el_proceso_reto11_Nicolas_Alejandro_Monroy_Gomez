@@ -1,5 +1,7 @@
 # reto11
 
+Para este reto es necesario hacer una cosnulta y procesar un archivo de texto, la consulta esta a continuación y el codigo del procesamiento del archivo esta en un notebook de python adjunto a este repositorio.
+
 1. Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
 
 |   Método   |                                   Uso                                   |
